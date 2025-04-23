@@ -1,4 +1,4 @@
-# Indian Railway Ticket Reservation System
+# CS2202 Project: Indian Railway Ticket Reservation System
 
 This is a **DBMS mini-project** built using MySQL that simulates a real-world railway ticket reservation system. It includes ticket booking, cancellations, RAC/Waitlist handling, payment management, and powerful analytical queries.
 
